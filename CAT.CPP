@@ -110,7 +110,7 @@ void return()
  cout<<" You have borrowed these books";
  cout<<endl<<endl;
  print1();
- cout<<" Do you want to return books";
+ cout<<" Do you want to return books?";
  cin>>choice;
  if(choice==1)
  {
