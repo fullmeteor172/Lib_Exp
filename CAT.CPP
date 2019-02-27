@@ -105,7 +105,7 @@ void print2()
 
 
 
-void return()
+void checkin()
 {
  cout<<" You have borrowed these books";
  cout<<endl<<endl;
@@ -147,6 +147,6 @@ void borrow()
  void main()
  {
    int i,numberofborrowedbooks,serialno.bookcode2,j,choice,choice2,amt;
-  return();
+  checkin();
   borrow();
  }
